@@ -123,7 +123,7 @@
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" groups="pdk" />
   
-  <project path="kernel/oppo/msm8974" name="katinatez/twrp_kernel_oneplus_msm8974" remote="github" revision="cm-12.0" />
+  <project path="kernel/oneplus/msm8974" name="TeamWin/android_kernel_oneplus_msm8974" remote="github" revision="cm-12.1" />
 
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" groups="pdk-java" />
