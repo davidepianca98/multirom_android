@@ -105,7 +105,6 @@
   <project path="external/smack" name="platform/external/smack" groups="pdk-cw-fw" remote="aosp" />
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" groups="pdk" />
   <project path="external/srtp" name="platform/external/srtp" groups="pdk-cw-fs" remote="aosp" />
-  <project path="external/stlport" name="platform/external/stlport" groups="pdk" remote="aosp" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" groups="pdk-cw-fs" />
   <project path="external/tagsoup" name="platform/external/tagsoup" groups="pdk-cw-fs,tradefed" remote="aosp" />
   <project path="external/tinycompress" name="CyanogenMod/android_external_tinycompress" groups="pdk" />
