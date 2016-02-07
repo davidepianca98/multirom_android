@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch=".."
+           review="review.cyanogenmod.org" />
+
+  <remote name="caf"
+          fetch="git://codeaurora.org"
+          review="codeaurora.org" />
+
+  <default remote="caf"
+           revision="LA.BR.1.2.3"
+           sync-c="true"
+           sync-j="4" />
+  
+  <project groups="pdk" name="platform/external/openssl" path="external/openssl" revision="ceb1a7973235d8b19b44c2abf417fc6752bbf4a7" upstream="LA.BR.1.2.3"/>
+</manifest>
