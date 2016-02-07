@@ -90,6 +90,7 @@
   <project path="external/opencv" name="platform/external/opencv" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/openfst" name="platform/external/openfst" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/openssh" name="CyanogenMod/android_external_openssh" />
+  <project path="external/openssl" name="platform/external/openssl" groups="pdk-cw-fs" remote="aosp" revision="lollipop-mr1-release" />
   <project path="external/pcre" name="CyanogenMod/android_external_pcre" groups="pdk-cw-fs" />
   <project path="external/regex-re2" name="platform/external/regex-re2" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/safe-iop" name="platform/external/safe-iop" groups="pdk" remote="aosp" />
