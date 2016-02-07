@@ -27,7 +27,7 @@
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" />
-  <project path="bootable/recovery-twrp" name="Tasssadar/Team-Win-Recovery-Project" remote="github" revision="master"/>
+  <project path="bootable/recovery-twrp" name="Tasssadar/Team-Win-Recovery-Project" remote="github" revision="android-6.0"/>
   <project path="dalvik" name="platform/dalvik" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   
   <project path="device/common" name="CyanogenMod/android_device_common" groups="pdk-cw-fs,pdk-fs" />
